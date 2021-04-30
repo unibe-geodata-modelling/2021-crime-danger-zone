@@ -11,10 +11,15 @@ Tasks for the project:
 
 Timeline:
 Week 09 (30.04): Search and clean the data;
+
 Week 10 (07.05): Network analysis for the station data;
+
 Week 11 (14.05): Built ABM;
+
 Week 12 (21.05): Built ABM;
+
 Week 13 (28.05): Validation the model;
+
 Week 14 (04.06): Presentation.
 
 Programming languages: Python, Netlogo
