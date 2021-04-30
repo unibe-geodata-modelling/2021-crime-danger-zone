@@ -11,6 +11,8 @@ Tasks for the project:
 
 Timeline:
 
+Week 08 (23.04): Set up the project;
+
 Week 09 (30.04): Search and clean the data;
 
 Week 10 (07.05): Network analysis for the station data;
