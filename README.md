@@ -10,6 +10,7 @@ Tasks for the project:
 3. Validate this model.
 
 Timeline:
+
 Week 09 (30.04): Search and clean the data;
 
 Week 10 (07.05): Network analysis for the station data;
