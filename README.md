@@ -6,5 +6,13 @@ Through the agent based model, I will build a spread model for the city of Bern 
 
 Tasks for the project:
 1. Using Network analysis to find the main stations in the City of Bern, and create a raster data for them;
-2. BUilt the agent based model for simulating the spread in Bern;
+2. Built the agent based model for simulating the spread in Bern;
 3. Validate this model.
+
+Timeline:
+Week 09 (30.04): 
+Week 10 (07.05): 
+Week 11 (14.05): 
+Week 12 (21.05): 
+Week 13 (28.05): 
+Week 14 (04.06):Presentation
