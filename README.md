@@ -4,7 +4,7 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
 
 # Purposes of research
 &#9744; Collect and pre-process relevant dataset in Chicago.   
-&#9744; Implement the logic (Twinam, 2017) in python, which is a programming language of Object Oriented Programming.  
+&#9744; Implement the algorithmic logic (Twinam, 2017) .  
 &#9744; Explore the association among crime and other characteristics in Chicago.  
  
 # Programming Language Details
