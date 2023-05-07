@@ -22,10 +22,13 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
   - &#9745; Population density of 2018 from Chicago  
   
 # Results
+![image](https://user-images.githubusercontent.com/43073850/236676978-d66878d0-c592-4e85-a157-6d2614346b24.png)  
+As this figure shows, the association between 'street weight' and 'number of commerical land use' is around 0.26. For others, there is not clear association.
 
-
-# Limitations
-
+# Limitations and Outlook
+  - Although I have extracted corresponding characteristics, I cannot ensure they represents the content in suitable scales. If not, there is modifiable areal unit problem existing. 
+  - I didn't consider to the interaction among these variables and their causalities. If possible, we can introduce the instrumental variable to check. 
+  - From temporal perspective, there is no histotrical dataset like the Twinam (2017), which means that this project is lacking of sensitivity analysis. 
 
 # Contact
   Name: Haokun Liu  
