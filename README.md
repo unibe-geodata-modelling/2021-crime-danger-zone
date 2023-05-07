@@ -21,6 +21,8 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
   - &#9745; Street weights (i.e. the combination between density and class) from Chicago  
   - &#9745; Population density of 2018 from Chicago  
   
+  With the limitation of data size, if need, you can contact to me to require them. Or you can find them in public sources. 
+  
 # Results
 ![image](https://user-images.githubusercontent.com/43073850/236676978-d66878d0-c592-4e85-a157-6d2614346b24.png)  
 As this figure shows, the association between 'street weight' and 'number of commerical land use' is around 0.26. For others, there is not clear association.
