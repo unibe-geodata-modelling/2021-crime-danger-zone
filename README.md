@@ -8,9 +8,7 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
 &#9744; Explore the association among crime and other characteristics in Chicago.  
 
 # Methods and datasets
-1) Formula:
-
-$$y_{i} = \beta _{0}  + \beta _{1}com_{i} + \beta _{2}pop_{i} + \beta _{3}street_{i} + \beta _{4}pop_{i} * com_{i} + \beta _{5}street_{i} * pop_{i} + \beta _{5}street_{i} * com_{i}.$$
+1) Formula:  $$y_{i} = \beta_{0} + \beta_{1}com_{i} + \beta_{2}pop_{i} + \beta_{3}street_{i} + \beta_{4}pop_{i} * com_{i} + \beta_{5}street_{i} * pop_{i} + \beta_{5}street_{i} * com_{i}$$
 
 2) Algorithms and implements:
 
