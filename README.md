@@ -9,11 +9,9 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
 
 # Methods and datasets
 - Algorithms and implements:   
-  &#9745; Centrality   
-  &#9745; Points in Circle   
-  &#9745; Points in Polygon   
-  &#9745; Spatial index   
-  &#9745; Correlation analysis   
+  - &#9745; Self-built 'Module' and 'Function' in python   
+  - &#9745; Spatial characteristics (e.g. Points in Circle, Points in Polygon, Spatial index, etc.)    
+  - &#9745; Correlation analysis    
 
   This project use python to finish analysis process. First of all, I build up the module for accelerated processing interaction points in traffic networks. As for process part, this part is relying on the 'json', 'math', 'Shapely', 'Numpy' packages. In the end, for analyses part, relying on the 'Pandas', 'Numpy', 'Geopandas', 'matplotlib', 'time' packages.  
 
