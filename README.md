@@ -26,6 +26,9 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
 # Results
 
 
+# Limitations
+
+
 # Contact
   Name: Haokun Liu  
   Email: haokun.liu@students.unibe.ch
