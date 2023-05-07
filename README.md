@@ -8,14 +8,12 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
   - &#9745; Explore the association among crime and other characteristics in Chicago.  
 
 # Methods and datasets
-- Formula:  $$y_{i} = \beta_{0} + \beta_{1}com_{i} + \beta_{2}pop_{i} + \beta_{3}street_{i} + \beta_{4}pop_{i} * com_{i} + \beta_{5}street_{i} * pop_{i} + \beta_{5}street_{i} * com_{i}$$
-
 - Algorithms and implements:   
   &#9745; Centrality   
   &#9745; Points in Circle   
   &#9745; Points in Polygon   
   &#9745; Spatial index   
-  &#9745; Regression analysis   
+  &#9745; Correlation analysis   
 
   This project use python to finish analysis process. First of all, I build up the module for accelerated processing interaction points in traffic networks. As for process part, this part is relying on the 'json', 'math', 'Shapely', 'Numpy' packages. In the end, for analyses part, relying on the 'Pandas', 'Numpy', 'Geopandas', 'matplotlib', 'time' packages.  
 
