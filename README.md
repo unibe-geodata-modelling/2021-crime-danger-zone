@@ -13,7 +13,7 @@ This project was done as a seminar work for "Seminar Geodata Analysis and Modell
   - &#9745; Spatial characteristics (e.g. Points in Circle, Points in Polygon, Spatial index, etc.)    
   - &#9745; Correlation analysis    
 
-  This project use python to finish analysis process. First of all, I build up the module for accelerated processing interaction points in traffic networks. As for process part, this part is relying on the 'json', 'math', 'Shapely', 'Numpy' packages. In the end, for analyses part, relying on the 'Pandas', 'Numpy', 'Geopandas', 'matplotlib', 'time' packages.  
+  This project use python to finish analysis process. First of all, I build up the module for accelerated processing interaction points in streets' networks. As for process part, this part is relying on the 'json', 'math', 'Shapely', 'Numpy' packages. In the end, for analyses part, relying on the 'Pandas', 'Numpy', 'Geopandas', 'matplotlib', 'time' packages.  
 
 - Datasets:
   - &#9745; Crime dataset from 2001 to 2018 in Chicago  
